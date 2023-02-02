@@ -1,0 +1,15 @@
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\bin\Debug\net6.0\Matrix.exe
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\bin\Debug\net6.0\Matrix.deps.json
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\bin\Debug\net6.0\Matrix.runtimeconfig.json
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\bin\Debug\net6.0\Matrix.dll
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\bin\Debug\net6.0\Matrix.pdb
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\obj\Debug\net6.0\Matrix.csproj.AssemblyReference.cache
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\obj\Debug\net6.0\Matrix.dll
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\obj\Debug\net6.0\refint\Matrix.dll
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\obj\Debug\net6.0\Matrix.pdb
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\obj\Debug\net6.0\Matrix.genruntimeconfig.cache
+C:\Users\spluxa4PC\Documents\SanaComars\SanaCSharp04\SanaCSharp04\Matrix\obj\Debug\net6.0\ref\Matrix.dll
